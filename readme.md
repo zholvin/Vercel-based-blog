@@ -1,2 +1,2 @@
 # URL
-https://vercel-based-blog-dicb375gu-zholvins-projects.vercel.app
+https://vercel-based-blog-git-main-zholvins-projects.vercel.app/blog
